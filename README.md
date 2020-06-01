@@ -1,6 +1,6 @@
 # Assignment_Writer
 find it at :https://sumithdath.github.io/Digital-Handwriting/<br />
-A Vague attempt to convert a great tool to website , couldn't do this without @imlolman help! and swapnil sir's blessings<br />
+A Vague attempt to convert a great tool to website ,<br />
 V1.0 :<br />
  What works? <br />
   Small Letters (only)<br />
